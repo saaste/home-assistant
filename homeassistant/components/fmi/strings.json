@@ -1,0 +1,19 @@
+{
+  "config": {
+    "title": "Finnish Meteorological Institute (FMI)",
+    "step": {
+      "user": {
+        "title": "Location in Finland",
+        "data": {
+          "name": "Name",
+          "latitude": "Latitude",
+          "longitude": "Longitude"
+        }
+      }
+    },
+    "error": {
+      "name_exists": "Name already exists",
+      "invalid_location": "Weather data not available for this location"
+    }
+  }
+}

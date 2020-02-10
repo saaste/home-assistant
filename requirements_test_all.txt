@@ -191,6 +191,9 @@ ephem==3.7.7.0
 # homeassistant.components.feedreader
 feedparser-homeassistant==5.2.2.dev1
 
+# homeassistant.components.fmi
+fmi-weather-client==0.0.10
+
 # homeassistant.components.foobot
 foobot_async==0.3.1
 

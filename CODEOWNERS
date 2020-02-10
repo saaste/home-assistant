@@ -114,6 +114,7 @@ homeassistant/components/fixer/* @fabaff
 homeassistant/components/flock/* @fabaff
 homeassistant/components/flume/* @ChrisMandich
 homeassistant/components/flunearyou/* @bachya
+homeassistant/components/fmi/* @saaste
 homeassistant/components/fortigate/* @kifeo
 homeassistant/components/fortios/* @kimfrellsen
 homeassistant/components/foscam/* @skgsergio
